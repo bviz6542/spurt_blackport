@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  Spurt
+//
+//  Created by 이제홍 on 2022/09/29.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+KAKAO_NATIVE_APP_KEY = 593a4b01cf3234deb84c1d12011b249c
